@@ -1,4 +1,4 @@
-# gitee暂停更新，Github: https://github.com/S2eTo/FlawPlatformMatch
+# gitee暂停更新，Github: https://github.com/S2eTo/FlawPlatform
 
 # 一、软件运行环境和简介
 
