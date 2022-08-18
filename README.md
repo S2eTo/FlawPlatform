@@ -1,6 +1,6 @@
-# gitee暂停更新，Github: https://github.com/S2eTo/FlawPlatform
-
 # 一、软件运行环境和简介
+
+功能定制，商务合作，问题/交流群: [512897146](https://jq.qq.com/?_wv=1027&k=V2mVBvL3)
 
 ## 1.1 软件简介
 
